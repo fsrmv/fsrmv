@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fsrmv from Расия
+- 👋 Hi, I’m @fsrmv from Russia
 - 👀 I’m interested in almost everything
-- 🌱 I’m currently learning HTML, Css, JavaScript, PHP, Frameworks etc., studying web-development
+- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Frameworks etc., and studying web-development
 - 💞️ I’m not interested yet to collaborate with someone
 - 📫 How to reach me? Idk
 
